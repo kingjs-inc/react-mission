@@ -1,6 +1,6 @@
 # react-mission
 
-#### 2차 - basic
+## 2차 - basic
 - https://user-images.githubusercontent.com/61344713/157263807-e7c95b0f-a48b-4b80-b465-562747f91492.mov
 
 - <img width="696" alt="2-basic" src="https://user-images.githubusercontent.com/61344713/157372829-cba7d185-7fb9-451d-8383-cc1b5e569dba.png">
@@ -9,7 +9,7 @@
     - commit : 258c7bea5be51d6eebe37464f83ac22dfb657e6e
 
 
-#### 2차 - challenge
+## 2차 - challenge
 - https://user-images.githubusercontent.com/61344713/157305319-6e23ddaa-00bb-43d1-984c-54e90384df10.mov
 
 - <img width="810" alt="2-challenge" src="https://user-images.githubusercontent.com/61344713/157372882-65bd0587-2eae-4ed3-8ae5-63b538b65eaa.png">
