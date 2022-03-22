@@ -8,7 +8,7 @@ https://user-images.githubusercontent.com/61344713/159511711-c37f7f80-9cc2-4405-
 ## 3차 - Challenge
 - https://user-images.githubusercontent.com/61344713/159511187-667276ef-7497-4dce-8d8b-272413492b46.mov
 
-- [Repo] (https://github.com/kingjs-inc/reac)
+- [Repo] (https://github.com/kingjs-inc/react-netflix-clone)
 
 ## 2차 - basic
 - https://user-images.githubusercontent.com/61344713/157263807-e7c95b0f-a48b-4b80-b465-562747f91492.mov
