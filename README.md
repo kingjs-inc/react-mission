@@ -10,6 +10,8 @@ https://user-images.githubusercontent.com/61344713/159511711-c37f7f80-9cc2-4405-
 
 - [Repo] (https://github.com/kingjs-inc/react-netflix-clone)
 
+- [배포하기] (https://kingjs-inc.github.io/react-netflix-clone/)
+
 ## 2차 - basic
 - https://user-images.githubusercontent.com/61344713/157263807-e7c95b0f-a48b-4b80-b465-562747f91492.mov
 
