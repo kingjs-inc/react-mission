@@ -6,7 +6,7 @@
 https://user-images.githubusercontent.com/61344713/159511711-c37f7f80-9cc2-4405-9904-757d8268c3d7.mov
 
 ## 3차 - Challenge
-- https://user-images.githubusercontent.com/61344713/159511187-667276ef-7497-4dce-8d8b-272413492b46.mov
+- https://user-images.githubusercontent.com/61344713/159523582-4ef503b5-b74d-4ceb-ba65-98dd9c928cc5.mov
 
 - [Repo] (https://github.com/kingjs-inc/react-netflix-clone)
 
